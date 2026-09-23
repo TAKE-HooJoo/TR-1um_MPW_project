@@ -8,7 +8,7 @@
 # Project metadata (used for documentation / review)
 # ======================================================
 project:
-  title: "2-Word x 2-Bit SRAM"        # Project title (e.g. "Simple CPU", "PLL", "ADC")
+  title: "SRAM TEG"        # Project title (e.g. "Simple CPU", "PLL", "ADC")
   author: "Takehiko Hojo"       # Your name
   discord: "ほうた"      # Optional: Discord username (for support / communication)
   description: "SRAM TEG with 2w2b, 16w2b, 2w16b and 16w16b macros for TR-1um MPW"  # Short one-line description
