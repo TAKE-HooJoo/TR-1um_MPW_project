@@ -11,7 +11,7 @@ project:
   title: "2-Word x 2-Bit SRAM"        # Project title (e.g. "Simple CPU", "PLL", "ADC")
   author: "Takehiko Hojo"       # Your name
   discord: "ほうた"      # Optional: Discord username (for support / communication)
-  description: "2-word x 2-bit single-port SRAM for TR-1um MPW"  # Short one-line description
+  description: "SRAM TEG with 2w2b, 16w2b, 2w16b and 16w16b macros for TR-1um MPW"  # Short one-line description
 
 # ======================================================
 # Layout (GDS) configuration
@@ -21,7 +21,7 @@ gds:
   # - start with "tr_1um_"
   # - include your GitHub username (for uniqueness)
   # Example: tr_1um_jun1okamura
-  top_cell: "tr_1um_TAKE-HooJoo"
+  top_cell: "tr_1um_TAKE_HooJoo"
 
   # File extension of layout
   extension: "gds"
